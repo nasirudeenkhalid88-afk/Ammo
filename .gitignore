@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Distribution
+dist/
+build/
+
+# Video uploads
+video_uploads/
